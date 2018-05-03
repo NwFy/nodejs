@@ -1,0 +1,16 @@
+{
+ "name": "njs-302",
+ "version": "1.0.0",
+ "description": "",
+ "main": "index.js",
+ "scripts": {
+  "start": "node index.js"
+ },
+ "bin": {
+  "apisport": "./APIsport.js"
+ },
+ "dependencies": {
+  "inquirer": "^5.2.0",
+  "newsapi": "^2.2.2"
+ }
+}
